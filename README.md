@@ -5,7 +5,7 @@ organizados por módulos.
 
 ## Estructura
 
-- Módulo 1: Git
+- [Módulo 1: Git](Modulo 1 - Git)
 - Módulo 2: ECMAScript 2015
 - Módulo 3: HTML y CSS
 - Módulo 4: JavaScript avanzado
