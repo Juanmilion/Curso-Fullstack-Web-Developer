@@ -7,7 +7,7 @@ organizados por módulos.
 
 - [Módulo 1: Git](modulo-1-git)
 - [Módulo 2: ECMAScript 2015](modulo-2-ecmascript)
-- Módulo 3: HTML y CSS
+- [Módulo 3: TypeScript](modulo-3-typescript)
 - Módulo 4: JavaScript avanzado
 - ...
 
