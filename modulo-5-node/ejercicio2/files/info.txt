@@ -1,0 +1,3 @@
+Este es un archivo de información.
+Ejercicio 2 del módulo 5 de Node.js.
+Servidor Express enviando archivos.
