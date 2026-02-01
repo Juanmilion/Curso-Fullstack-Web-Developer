@@ -10,6 +10,8 @@ Este módulo tiene como objetivo practicar la creación de **proyectos Node.js**
 - Gestionar rutas y enviar archivos o respuestas condicionales.
 - Ejecutar y comprobar el funcionamiento de los proyectos.
 
+---
+
 ## 📂 Ejercicios realizados
 
 ### 🧩 Ejercicio 1 – Proyecto Node.js y uso de módulos
