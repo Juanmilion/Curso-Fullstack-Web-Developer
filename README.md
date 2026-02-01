@@ -9,6 +9,6 @@ organizados por módulos.
 - [Módulo 2: ECMAScript 2015](modulo-2-ecmascript)
 - [Módulo 3: TypeScript](modulo-3-typescript)
 - [Módulo 4: Testing](modulo-4-testing)
-- ...
+- [Módulo 5: Node.js](modulo-5-node)
 
 Cada módulo contiene los ejercicios correspondientes con su código y estructura básica.
