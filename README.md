@@ -10,5 +10,6 @@ organizados por módulos.
 - [Módulo 3: TypeScript](modulo-3-typescript)
 - [Módulo 4: Testing](modulo-4-testing)
 - [Módulo 5: Node.js](modulo-5-node)
+- [Módulo 6: APIs](modulo-6-apis)
 
 Cada módulo contiene los ejercicios correspondientes con su código y estructura básica.
