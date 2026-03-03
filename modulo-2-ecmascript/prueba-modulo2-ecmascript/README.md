@@ -29,11 +29,12 @@ Desarrollar una aplicación sencilla que permita:
 
 ## 🏗️ Estructura del Proyecto
 
+```
 modulo2-ecmascript/
 │
 ├── index.html
 └── app.js
-
+```
 - **index.html** → Contiene la estructura del formulario.
 - **app.js** → Contiene la lógica del programa (clase, promesa y funciones asíncronas).
 
@@ -74,6 +75,7 @@ Se define una clase `Alumno` con:
 
 Ejemplo:
 
+```
 class Alumno {
   constructor(nombre, edad, curso) {
     this.nombre = nombre;
@@ -84,7 +86,8 @@ class Alumno {
   mostrarInfo() {
     return `${this.nombre} tiene ${this.edad} años y está cursando ${this.curso}`;
   }
-}
+} 
+```
 
 ---
 
@@ -92,6 +95,7 @@ class Alumno {
 
 Se implementa una función que retorna:
 
+```
 function crearAlumnoPromesa(nombre, edad, curso) {
   return new Promise((resolve, reject) => {
     if (nombre && edad && curso) {
@@ -101,7 +105,8 @@ function crearAlumnoPromesa(nombre, edad, curso) {
       reject("Faltan datos para crear el alumno");
     }
   });
-}
+} 
+```
 
 Estados posibles de una promesa:
 
@@ -115,6 +120,7 @@ Estados posibles de una promesa:
 
 Se utiliza una función asíncrona para consumir la promesa:
 
+```
 async function manejarFormulario(event) {
   event.preventDefault();
 
@@ -129,6 +135,7 @@ async function manejarFormulario(event) {
     document.getElementById("resultado").textContent = error;
   }
 }
+```
 
 El uso de async-await mejora la legibilidad frente a .then() y .catch().
 
@@ -136,10 +143,13 @@ El uso de async-await mejora la legibilidad frente a .then() y .catch().
 
 ## 🚀 Cómo Ejecutar el Proyecto
 
+(Link al demo)[https://Juanmilion.github.io/prueba-modulo2-ecmascript]
+
 1. Clonar el repositorio:
 
+```
 git clone https://github.com/tuusuario/modulo2-ecmascript.git
-
+```
 2. Abrir el archivo `index.html` en el navegador.
 
 No requiere servidor ni dependencias externas.
@@ -154,5 +164,5 @@ No requiere servidor ni dependencias externas.
 ---
 
 ## 👨‍💻 Autor
-
+Juan Manuel Guerrero Vides
 Proyecto realizado como práctica formativa en el módulo de ECMAScript 2015.
