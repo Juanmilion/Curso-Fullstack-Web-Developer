@@ -143,7 +143,7 @@ El uso de async-await mejora la legibilidad frente a .then() y .catch().
 
 ## 🚀 Cómo Ejecutar el Proyecto
 
-(Link al demo)[https://Juanmilion.github.io/prueba-modulo2-ecmascript]
+[Link al demo](https://Juanmilion.github.io/prueba-modulo2-ecmascript)
 
 1. Clonar el repositorio:
 
