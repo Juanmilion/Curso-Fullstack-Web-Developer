@@ -143,16 +143,8 @@ El uso de async-await mejora la legibilidad frente a .then() y .catch().
 
 ## 🚀 Cómo Ejecutar el Proyecto
 
-[Link al demo](https://Juanmilion.github.io/prueba-modulo2-ecmascript)
+[Link al demo](https://Juanmilion.github.io/Curso-Fullstack-Web-Developer/modulo-2-ecmascript/prueba-modulo2-ecmascript)
 
-1. Clonar el repositorio:
-
-```
-git clone https://github.com/tuusuario/modulo2-ecmascript.git
-```
-2. Abrir el archivo `index.html` en el navegador.
-
-No requiere servidor ni dependencias externas.
 
 ---
 
